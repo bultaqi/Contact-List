@@ -1,0 +1,18 @@
+{
+  "contact": [
+    {
+      "firstName": "Thomas",
+      "lastName": "Frazier",
+      "phoneNumber": "0500",
+      "electronicMail": "kag@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "johnny ",
+      "lastName": "parsons",
+      "phoneNumber": "25",
+      "electronicMail": "tpars@outlook.com",
+      "id": 2
+    }
+  ]
+}
