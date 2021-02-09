@@ -13,6 +13,13 @@
       "phoneNumber": "25",
       "electronicMail": "tpars@outlook.com",
       "id": 2
+    },
+    {
+      "firstName": "ghj",
+      "lastName": "dj",
+      "phoneNumber": "",
+      "electronicMail": "dj",
+      "id": 3
     }
   ]
 }
